@@ -257,10 +257,10 @@ background: linear-gradient(to bottom, var(--light-blue), #fff)
   background-position: center center;
 }
 .n-intro-img-1 {
-  background-image: url(/images/n-bg-1.jpeg);
+  background-image: url('/images/n-bg-1.jpeg');
 }
 .n-intro-img-2 {
-  background-image: url(/images/n-bg-4.jpeg);
+  background-image: url('/images/n-bg-4.jpeg');
 }
 .n-brands-container {
   margin-top: 1rem;
