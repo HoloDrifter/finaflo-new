@@ -252,17 +252,15 @@ background: linear-gradient(to bottom, var(--light-blue), #fff)
   box-shadow: 5px 5px 12px #d0d1cc, -5px -5px 12px #ffffff;
   width: 45%;
   height: 23rem;
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
 }
 .n-intro-img-1 {
-  background-image: url(/images/n-bg-3.jpeg);
-  background-size: cover;
-  /* background-color: #95aeb2; */
+  background-image: url(/images/n-bg-1.jpeg);
 }
 .n-intro-img-2 {
-  background-image: url(/images/n-bg-1.jpeg);
+  background-image: url(/images/n-bg-4.jpeg);
 }
 .n-brands-container {
   margin-top: 1rem;
