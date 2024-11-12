@@ -257,10 +257,10 @@ background: linear-gradient(to bottom, var(--light-blue), #fff)
   background-position: center center;
 }
 .n-intro-img-1 {
-  background-image: url('/images/n-bg-1.jpeg');
+  background-image: url('../images/n-bg-1.jpeg');
 }
 .n-intro-img-2 {
-  background-image: url('/images/n-bg-4.jpeg');
+  background-image: url('../images/n-bg-4.jpeg');
 }
 .n-brands-container {
   margin-top: 1rem;
@@ -389,7 +389,7 @@ background: linear-gradient(to bottom, var(--light-blue), #fff)
   top: 0;
   left: 0;
   opacity: 0.1;
-  background-image: url('/images/cta-bg.png');
+  background-image: url('../images/cta-bg.png');
   /* background-image: url(./perspective-grid-backgrounds-set-2024-10-05-02-26-23-utc/PNG/Square_BW_PerspectiveGrid9.png); */
   background-size: cover;
   z-index: -1;
